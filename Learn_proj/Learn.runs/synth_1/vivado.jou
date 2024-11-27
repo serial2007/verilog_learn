@@ -3,12 +3,12 @@
 # SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
 # IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
 # SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
-# Start of session at: Tue Nov 26 19:45:25 2024
-# Process ID: 8000
-# Current directory: D:/Projects/verilog_learn/Learn/Learn.runs/synth_1
-# Command line: vivado.exe -log light.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source light.tcl
-# Log file: D:/Projects/verilog_learn/Learn/Learn.runs/synth_1/light.vds
-# Journal file: D:/Projects/verilog_learn/Learn/Learn.runs/synth_1\vivado.jou
+# Start of session at: Wed Nov 27 18:14:42 2024
+# Process ID: 33248
+# Current directory: D:/Projects/verilog_learn/Learn_proj/Learn.runs/synth_1
+# Command line: vivado.exe -log func_t.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source func_t.tcl
+# Log file: D:/Projects/verilog_learn/Learn_proj/Learn.runs/synth_1/func_t.vds
+# Journal file: D:/Projects/verilog_learn/Learn_proj/Learn.runs/synth_1\vivado.jou
 # Running On        :CHEN-DESKTOP
 # Platform          :Windows Server 2016 or Windows 10
 # Operating System  :22631
@@ -19,6 +19,6 @@
 # Host memory       :34190 MB
 # Swap memory       :2684 MB
 # Total Virtual     :36875 MB
-# Available Virtual :17657 MB
+# Available Virtual :16651 MB
 #-----------------------------------------------------------
-source light.tcl -notrace
+source func_t.tcl -notrace
