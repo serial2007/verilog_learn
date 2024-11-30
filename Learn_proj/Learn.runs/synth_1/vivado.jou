@@ -3,11 +3,11 @@
 # SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
 # IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
 # SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
-# Start of session at: Wed Nov 27 18:14:42 2024
-# Process ID: 33248
+# Start of session at: Sat Nov 30 15:09:02 2024
+# Process ID: 46376
 # Current directory: D:/Projects/verilog_learn/Learn_proj/Learn.runs/synth_1
-# Command line: vivado.exe -log func_t.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source func_t.tcl
-# Log file: D:/Projects/verilog_learn/Learn_proj/Learn.runs/synth_1/func_t.vds
+# Command line: vivado.exe -log pre_4_adder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source pre_4_adder.tcl
+# Log file: D:/Projects/verilog_learn/Learn_proj/Learn.runs/synth_1/pre_4_adder.vds
 # Journal file: D:/Projects/verilog_learn/Learn_proj/Learn.runs/synth_1\vivado.jou
 # Running On        :CHEN-DESKTOP
 # Platform          :Windows Server 2016 or Windows 10
@@ -19,6 +19,6 @@
 # Host memory       :34190 MB
 # Swap memory       :2684 MB
 # Total Virtual     :36875 MB
-# Available Virtual :16651 MB
+# Available Virtual :10679 MB
 #-----------------------------------------------------------
-source func_t.tcl -notrace
+source pre_4_adder.tcl -notrace
