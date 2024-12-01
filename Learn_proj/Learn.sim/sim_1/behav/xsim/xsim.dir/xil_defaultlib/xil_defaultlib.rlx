@@ -3,5 +3,9 @@
 May 22 2024
 19:03:11
 D:/Projects/verilog_learn/Learn_proj/Learn.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+D:/Projects/verilog_learn/Learn_proj/src/func_t.v,1732963950,verilog,,,,counter;counter_tb,,,,,,,,
 D:/Projects/verilog_learn/Learn_proj/src/light.v,1732624794,verilog,,,,forever_tb,,,,,,,,
+D:/Projects/verilog_learn/Learn_proj/src/pre_4_adder.v,1732959519,verilog,,,,d_latch;d_latch_tb,,,,,,,,
+D:/Projects/verilog_learn/Learn_proj/src/pre_8_adder.v,1733048925,verilog,,,,CLA_x;pre_1_adder;pre_x_adder;pre_x_adder_tb,,,,,,,,
+D:/Projects/verilog_learn/Learn_proj/src/rand.v,1733043254,verilog,,,,signal15;signal15_tb,,,,,,,,
 D:/Projects/verilog_learn/Learn_proj/src/shift.v,1732699397,verilog,,,,shift_regist1;shift_regist2,,,,,,,,

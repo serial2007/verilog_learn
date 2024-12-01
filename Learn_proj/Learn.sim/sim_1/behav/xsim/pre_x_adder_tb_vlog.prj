@@ -1,6 +1,6 @@
 # compile verilog/system verilog design source files
 verilog xil_defaultlib  \
-"../../../../src/shift.v" \
+"../../../../src/pre_8_adder.v" \
 
 # compile glbl module
 verilog xil_defaultlib "glbl.v"

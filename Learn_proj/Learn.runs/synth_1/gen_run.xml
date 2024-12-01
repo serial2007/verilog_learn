@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GenRun Id="synth_1" LaunchPart="xc7k325tffg900-2" LaunchTime="1732950530" LaunchIncrCheckpoint="$PSRCDIR/utils_1/imports/synth_1/light.dcp">
   <File Type="PA-TCL" Name="pre_4_adder.tcl"/>
-  <File Type="RDS-PROPCONSTRS" Name="pre_4_adder_drc_synth.rpt"/>
   <File Type="REPORTS-TCL" Name="pre_4_adder_reports.tcl"/>
   <File Type="RDS-RDS" Name="pre_4_adder.vds"/>
-  <File Type="RDS-UTIL" Name="pre_4_adder_utilization_synth.rpt"/>
-  <File Type="RDS-UTIL-PB" Name="pre_4_adder_utilization_synth.pb"/>
+  <File Type="RDS-UTIL" Name="signal15_tb_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="signal15_tb_utilization_synth.pb"/>
   <File Type="RDS-DCP" Name="pre_4_adder.dcp"/>
-  <File Type="VDS-TIMINGSUMMARY" Name="pre_4_adder_timing_summary_synth.rpt"/>
-  <File Type="VDS-TIMING-PB" Name="pre_4_adder_timing_summary_synth.pb"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
     <Filter Type="Srcs"/>
     <File Path="$PPRDIR/src/pre_4_adder.v">
@@ -68,9 +65,7 @@
     </Config>
   </FileSet>
   <Strategy Version="1" Minor="2">
-    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2024">
-      <Desc>Vivado Synthesis Defaults</Desc>
-    </StratHandle>
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2024"/>
     <Step Id="synth_design"/>
   </Strategy>
 </GenRun>

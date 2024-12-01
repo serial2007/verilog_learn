@@ -1,3 +1,5 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Projects/verilog_learn/Learn_proj/src/shift.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module shift_regist2
-INFO: [VRFC 10-311] analyzing module shift_regist1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Projects/verilog_learn/Learn_proj/src/pre_8_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pre_1_adder
+INFO: [VRFC 10-311] analyzing module CLA_x
+INFO: [VRFC 10-311] analyzing module pre_x_adder
+INFO: [VRFC 10-311] analyzing module pre_x_adder_tb
